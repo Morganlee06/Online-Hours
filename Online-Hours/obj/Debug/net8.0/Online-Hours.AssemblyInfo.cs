@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Online-Hours")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34bf52a738414745ccac540a23b26faf1098fc15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Online-Hours")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Online-Hours")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

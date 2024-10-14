@@ -4557,11 +4557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\692115\\source\\repos\\Online-Hours\\Online-Hours\\Online-Hours.csproj",
+      "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\Online-Hours\\Online-Hours\\Online-Hours.csproj",
       "projectName": "Online-Hours",
-      "projectPath": "C:\\Users\\692115\\source\\repos\\Online-Hours\\Online-Hours\\Online-Hours.csproj",
+      "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\Online-Hours\\Online-Hours\\Online-Hours.csproj",
       "packagesPath": "C:\\Users\\692115\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\692115\\source\\repos\\Online-Hours\\Online-Hours\\obj\\",
+      "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\Online-Hours\\Online-Hours\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\692115\\AppData\\Roaming\\NuGet\\NuGet.Config",
